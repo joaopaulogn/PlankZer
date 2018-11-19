@@ -1,8 +1,5 @@
 # PlankZer
-its just a separator for plank dock :p
-
-# PlankZer [Plank Zeparator]
-Simple script for adding spacers into Plank dock.
+its just a separator for plank dock :p specially for macOS Theme or maybe other ? :p
 
 ![Plank spacers](screenshot.png)
 
